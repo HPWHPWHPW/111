@@ -17,27 +17,7 @@ The defeated and once proud nation of Japan was rechristened with a mere number.
 I swear...
 I swear,Suzaku,so help me.
 I will one day obliterate Britannia!
-{\fade(255,0,255,0,500,5500,8000)}Subtitle: Willing
-Jibun wo sekai sae mo\N{\c&H00FF00&}The moment when I might be able...
-Kaete shimae sou na shunkan wa\N{\c&H00FF00&}To change myself and even the world
-Itsumo sugu soba ni\N{\c&H00FF00&}It's always right there at my side
-Kakusenu iradachi to\N{\c&H00FF00&}Even as I stood still,looking at myself
-Tachitsukusu jibun wo mitsume\N{\c&H00FF00&}With undisguised frustration
-Mayoi nagara nayami nagara\N{\c&H00FF00&}Feeling lost,feeling anguished
-Kuyami nagara kimereba ii sa\N{\c&H00FF00&}Feeling mournful,deciding what to do
-Kimi ga kureta kotoba hitotsu\N{\c&H00FF00&}All it took was a single word from you
-Tomadoi wa kiesari\N{\c&H00FF00&}And my uncertainty vanished
-Karappo datta boku no heya ni hikari ga sashita\N{\c&H00FF00&}You let the light shine into what was my empty room
-Miageta oozora ga\N{\c&H00FF00&}The sky I had been looking up at...
-Aoku sumikitte yuku\N{\c&H00FF00&}Cleared and turned blue
-Tozashita madowo hiraku\N{\c&H00FF00&}And I decided to throw open...
-Koto kimeta\N{\c&H00FF00&}The windows that were kept closed
-Jibun wo sekai sae mo\N{\c&H00FF00&}The moment when I might be able...
-Kaete shimae sou na shunkan wa\N{\c&H00FF00&}To change myself and even the world
-Kanjiru ima koko ni\N{\c&H00FF00&}I feel it right here with me
-{\pos(960,900)\fs60\kf100\2a&HFF&}The Day a New Demon Was Born
-{\pos(960,860)\fs60\fad(500,500)}7 YEARS AFTER THE WAR. (2017 a.t.b.)
-{\pos(960,860)\fs60\fad(500,0)}Britannian Residence -Tokyo Settlement-
+
 This is Alpha-3! Target is traveling from Delta-12 toward Delta-14,at a speed of 80 kph!
 CCP to all mobile units.
 Declaring a Code 3 from floor 5 to floor 2.
